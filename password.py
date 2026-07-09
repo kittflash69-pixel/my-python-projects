@@ -1,7 +1,7 @@
 # නමෝ බුද්දාය
 password = "nethmika1234"
 attempts = 0
-print("Hellow")
+print("Helloww Welcome to the login page")
 
 while attempts < 3:
 
